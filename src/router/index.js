@@ -21,7 +21,9 @@ Vue.use(VueRouter)
 ]
 
 const router = new VueRouter({
-  routes
+  linkActiveClass:"active",
+  routes,
+  mode:'history'
 })
 
 export default router
