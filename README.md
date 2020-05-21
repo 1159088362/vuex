@@ -1,4 +1,4 @@
-# demo1
+# demo2
 
 ## Project setup
 ```
@@ -22,3 +22,9 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"# vue" 
+"# vue" 
+"# vue-text" 
+"# vue-text" 
+"# vuex" 
+"# vuex" 
